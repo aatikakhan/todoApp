@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">566753480413-19nn9adpqk1f0e24tbse8nmtoqp66i0i.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://taskbook-a6727.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">566753480413</string>
+    <string name="google_api_key" translatable="false">AIzaSyCSIoNuEvuX9_IfiNC6ANTzi_AxzZQ8TUE</string>
+    <string name="google_app_id" translatable="false">1:566753480413:android:b30ee24cbd4806b0c85534</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCSIoNuEvuX9_IfiNC6ANTzi_AxzZQ8TUE</string>
+    <string name="google_storage_bucket" translatable="false">taskbook-a6727.appspot.com</string>
+    <string name="project_id" translatable="false">taskbook-a6727</string>
+</resources>

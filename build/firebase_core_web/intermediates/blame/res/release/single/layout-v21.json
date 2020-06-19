@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\Android\\Flutter_Projects\\hello123\\project\\build\\firebase_core_web\\intermediates\\res\\merged\\release\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\bhavi\\.gradle\\caches\\transforms-2\\files-2.1\\42a432533b94770dae307c52447e7511\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\Android\\Flutter_Projects\\hello123\\project\\build\\firebase_core_web\\intermediates\\res\\merged\\release\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\bhavi\\.gradle\\caches\\transforms-2\\files-2.1\\42a432533b94770dae307c52447e7511\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "D:\\Android\\Flutter_Projects\\hello123\\project\\build\\firebase_core_web\\intermediates\\res\\merged\\release\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\bhavi\\.gradle\\caches\\transforms-2\\files-2.1\\42a432533b94770dae307c52447e7511\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\Android\\Flutter_Projects\\hello123\\project\\build\\firebase_core_web\\intermediates\\res\\merged\\release\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\bhavi\\.gradle\\caches\\transforms-2\\files-2.1\\42a432533b94770dae307c52447e7511\\res\\layout-v21\\notification_action.xml"
+    }
+]
